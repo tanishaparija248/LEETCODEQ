@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
