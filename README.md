@@ -25,11 +25,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
