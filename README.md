@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -18,12 +19,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
