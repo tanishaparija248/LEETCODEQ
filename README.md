@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
@@ -70,4 +72,8 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
