@@ -36,6 +36,7 @@
 | [0018-4sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
 ## String
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
