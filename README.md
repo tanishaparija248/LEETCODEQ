@@ -37,6 +37,7 @@
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Hash Table
