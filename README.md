@@ -39,6 +39,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0443-string-compression/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
