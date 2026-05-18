@@ -34,6 +34,7 @@
 | [0011-container-with-most-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0018-4sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -43,6 +44,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
