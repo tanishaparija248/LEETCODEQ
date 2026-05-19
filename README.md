@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
@@ -68,12 +69,14 @@
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0415-add-strings/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,8 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0686-repeated-string-match/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
