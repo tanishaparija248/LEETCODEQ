@@ -18,6 +18,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
@@ -137,6 +138,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
