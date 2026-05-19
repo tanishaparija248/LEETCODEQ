@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -131,12 +132,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
