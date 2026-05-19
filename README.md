@@ -16,6 +16,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
@@ -72,6 +73,7 @@
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
