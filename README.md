@@ -20,6 +20,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0724-find-pivot-index/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
@@ -86,6 +87,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
@@ -116,6 +118,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
