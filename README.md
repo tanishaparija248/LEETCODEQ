@@ -63,6 +63,7 @@
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
 | [0415-add-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0415-add-strings/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -81,6 +82,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
@@ -110,6 +112,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0643-maximum-average-subarray-i/) | Easy |
