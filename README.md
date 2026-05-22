@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -133,6 +134,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
