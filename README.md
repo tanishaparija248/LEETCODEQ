@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1392-longest-happy-prefix/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
