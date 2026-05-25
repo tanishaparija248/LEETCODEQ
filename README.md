@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
