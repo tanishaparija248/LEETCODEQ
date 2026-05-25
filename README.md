@@ -74,6 +74,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0686-repeated-string-match/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
@@ -100,6 +101,7 @@
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
