@@ -54,6 +54,7 @@
 | [0443-string-compression](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1768-merge-strings-alternately](https://github.com/tanishaparija248/LEETCODEQ/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/tanishaparija248/LEETCODEQ/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
