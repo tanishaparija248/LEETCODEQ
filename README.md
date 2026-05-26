@@ -53,6 +53,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0567-permutation-in-string/) | Medium |
@@ -68,6 +69,7 @@
 | [0205-isomorphic-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
