@@ -115,6 +115,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -191,4 +192,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
