@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0414-third-maximum-number](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0414-third-maximum-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0605-can-place-flowers/) | Easy |
@@ -137,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/tanishaparija248/LEETCODEQ/tree/main/0605-can-place-flowers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
